@@ -1,3 +1,3 @@
 # Demo Repo at UW Software Carpentry
 
-Demonstration repo for learning git at Feb University of Washing boot camp.
+Demonstration repo for learning git at Feb University of Washing boot camp in room EE 303.
