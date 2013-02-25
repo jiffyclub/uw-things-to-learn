@@ -7,3 +7,5 @@
 - best practices for github collaboration
 
 - basic Linux commands
+
+- using rebase in git
