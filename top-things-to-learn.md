@@ -9,3 +9,15 @@
 - basic Linux commands
 
 - using rebase in git
+
+- learn how to plot things
+
+- how to use regular expression in python
+
+- how to access databases
+
+- how to manipulate large files or datasets
+
+- how to use sql in python
+
+
