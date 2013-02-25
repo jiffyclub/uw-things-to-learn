@@ -5,3 +5,5 @@
 - avoiding version conflicts
 
 - best practices for github collaboration
+
+- basic Linux commands
