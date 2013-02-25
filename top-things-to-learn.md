@@ -9,3 +9,5 @@
 - basic Linux commands
 
 - using rebase in git
+
+- learn how to make subplots in matplotlib
