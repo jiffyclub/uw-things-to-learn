@@ -3,3 +3,5 @@
 - everyone's names & fields
 
 - avoiding version conflicts
+
+- best practices for github collaboration
