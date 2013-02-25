@@ -1,4 +1,3 @@
-uw-things-to-learn
-==================
+# Demo Repo at UW Software Carpentry
 
-Top things to learn at UW SWC Boot Camp
+Demonstration repo for learning git at Feb University of Washing boot camp.
