@@ -9,3 +9,7 @@
 - basic Linux commands
 
 - using rebase in git
+
+- python scripting
+
+- 
