@@ -11,3 +11,9 @@
 - using rebase in git
 
 - learn how to make subplots in matplotlib
+
+- python statistical tools
+
+- using numpy with matrices
+
+- learn file utilities in python
