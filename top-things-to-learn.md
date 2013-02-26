@@ -11,3 +11,11 @@
 - using rebase in git
 
 - secret to life the universe and everything (answer = 42)
+
+- learn how to plot things
+
+- how to use regular expression in python
+
+- how to manipulate large files or datasets
+
+- how to use sql in python
