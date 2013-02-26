@@ -3,4 +3,4 @@
 Demonstration repo for learning git at Feb University of
 Washington boot camp in room EE 303.
 
-Things are great!
+Things are great! And it's even past four, wow! We're still awake!
