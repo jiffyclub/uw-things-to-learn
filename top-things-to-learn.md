@@ -27,3 +27,5 @@
 - using numpy with matrices
 
 - learn file utilities in python
+
+- python scripting
