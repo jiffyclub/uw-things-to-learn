@@ -39,3 +39,11 @@
 - Using Python to analyze sequencing files
 
 - Using Python to draw wonderful pictures
+
+- applying python to data sets
+
+- sharing files
+
+- tricks for better efficiency while working in the shell
+
+- merging data sets
