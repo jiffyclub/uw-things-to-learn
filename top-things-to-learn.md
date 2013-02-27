@@ -29,3 +29,13 @@
 - learn file utilities in python
 
 - python scripting
+
+- Using Python script for data management
+
+- Using Python to drive FORTRAN programs
+
+- Using Python to edit audio files
+
+- Using Python to analyze sequencing files
+
+- Using Python to draw wonderful pictures
